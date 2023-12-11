@@ -1,0 +1,62 @@
+body{background-color: rgb(160, 114, 146);
+        margin: 0%;
+        text-align: auto;    
+}
+
+#home{text-align: auto;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.resume{ padding-left: 20px;
+         padding-right: 20px;
+         font-family: cursive;
+}
+
+h1{text-align: center;
+   font-family: cursive;
+}
+
+.worker{padding-top: 20px;}
+
+.g-nav{
+    display: flex;
+    justify-content: space-around;
+    background-color:  rgb(224, 170, 205);   
+    font-family: cursive;
+}
+
+.g-nav a{padding: 10px;
+        text-decoration: none;
+}
+
+.g-nav a:hover{ background-color:rgb(160, 114, 146) ;}
+
+p{
+        font-family: cursive;
+}
+
+.text {text-align: center;
+        align-items: center;
+}
+
+.images{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+}
+
+
+.figure{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+
+
+}
+
+figcaption{ 
+        padding-top: 10px;
+}
+
+.photo4{ padding-right: 20px;}
